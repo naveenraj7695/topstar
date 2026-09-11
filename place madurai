@@ -1,5 +1,1 @@
-git checkout main
-
-echo "Hello from branch1" > test.txt
-git add test.txt
-git commit -m "main change"
+Hello from branch1
