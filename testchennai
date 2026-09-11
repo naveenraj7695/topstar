@@ -1,3 +1,6 @@
+git checkout wrongpull
+
 echo "Hello from branch2" > test.txt
 git add test.txt
-git commit -m "branch2 change"
+git commit -m "wrongpull change"
+
