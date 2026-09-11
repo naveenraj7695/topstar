@@ -1,28 +1,3 @@
-place madurai
-
-Yes, "content" and "content" are heteronyms, which means they are spelled the same way but have different pronunciations and meanings. 
-
-LinkedIn
-·Aparna Ramesh
- +1
-Noun: CON-tent
-Pronunciation: You put the stress on the first syllable (CON-tent).
-Meaning: This refers to information, material, or ideas inside a book, speech, video, or website.
-Example: "She creates great digital content for her blog." 
-
-YouTube
-·Learn English | Let's Talk - Free English Lessons
- +3
-Adjective or Verb: con-TENT
-Pronunciation: You put the stress on the second syllable (con-TENT).
-Meaning: This describes feeling happy, peaceful, or satisfied with what you have.
-Example: "He felt content after a good meal." 
-
-YouTube
-·English with Aga
- +3
-Most users on Reddit agree that shifting where you place your voice changes both the vowel sound and the grammatical role of the word. 
-
-Reddit
-·r/EnglishLearning
-AI can make mistakes, so double-check responses
+echo "Hello from branch1" > test.txt
+git add test.txt
+git commit -m "branch1 change"
